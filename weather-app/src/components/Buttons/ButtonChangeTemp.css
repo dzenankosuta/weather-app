@@ -1,10 +1,10 @@
 .btn {
   width: 15rem;
   height: 3rem;
-  background-color: #c3ffff;
+  background-color: #d1dac7;
   cursor: pointer;
   border: 0px;
-  border-radius: 2px;
+  border-radius: 6px;
   font-weight: 700;
   text-transform: uppercase;
 }
