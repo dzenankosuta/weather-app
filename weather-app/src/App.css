@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+}
+
+.cold {
+  background-image: url("./images/winter.webp");
+  background-size: cover;
+  height: 100vh;
+}
+
+.neutral {
+  background-image: url("./images/spring.jpg");
+  background-size: cover;
+  height: 100vh;
+}
+
+.warm {
+  background-image: url("./images/summer.webp");
+  background-size: cover;
+  height: 100vh;
+}

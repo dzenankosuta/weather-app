@@ -1,6 +1,7 @@
 .card {
   margin: auto;
-  margin-top: 60px;
+  position: relative;
+  top: 60px;
   width: 25%;
   height: 65vh;
   border-radius: 10px;
